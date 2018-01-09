@@ -232,6 +232,7 @@ declare global {
        * GENERATED COMMENT FOR SERVICES
        */
 
+      var AuthenticationService: Authenticationservice; 
       var ModelsService: Modelsservice;
       //<services here>
 }
